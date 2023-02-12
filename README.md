@@ -1,5 +1,5 @@
 # Keyauth-Loader
-Onetap styled shitty keyauth loader
+Onetap styled shitty keyauth loader.
 Just enter your credentials in Login.cs and you are ready to go!
 
 ![Login](https://user-images.githubusercontent.com/87916476/218312000-33dfb968-0240-402e-8415-49a980f15eec.PNG)
